@@ -1,0 +1,9 @@
+Django>=3.2
+djangorestframework
+psycopg2-binary
+celery
+redis
+requests
+openai
+resend
+django-environ==0.12.0
